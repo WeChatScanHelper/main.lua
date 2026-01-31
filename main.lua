@@ -1128,7 +1128,7 @@ login.onClick = function()
 end
 ]]
 
--
+
 local API_URL = "https://alexaofficial.x10.mx/connect"
 local GAME = "CODMGRINJECT"
 
